@@ -19,16 +19,16 @@ Basic server information and alerts are visible on the main view. You can perfor
 
 On iPad these results will be requested and loaded as you type.
 
-![View Jamf Pro information at a glance.](images/server_view_iphone.png)
-![View Jamf Pro information at a glance.](images/ipad_quick_search.png)
+![View Jamf Pro information at a glance on iPad with search results on the same screen.](images/ipad_quick_search.png)
+![View Jamf Pro information at a glance on iPhone.](images/server_view_iphone.png)
 
 ## Saved Searches
 
 Constantly used searches can be saved for single tap loading. All the search features of this app wrap around the `/v1/computers-inventory` API and its available filters.
 
 ![Adding saved searches on iPad.](images/add_search_sheet_ipad.png)
+![Viewing searches on iPad.](images/ipad_search_results.png)
 ![Adding saved searches on iPhone.](images/add_search_sheet_iphone.png)
-![Jasper's main server list view.](images/ipad_search_results.png)
-![Jasper's main server list view.](images/device_view_iphone.png)
+![Viewing device details on iPhone.](images/device_view_iphone.png)
 
 
