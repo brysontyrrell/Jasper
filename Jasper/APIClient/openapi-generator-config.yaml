@@ -1,0 +1,15 @@
+generate:
+  - client
+  - types
+filter:
+  paths:
+    - /oauth/token
+    - /v1/computers-inventory
+    - /v1/computers-inventory-detail/{id}
+    - /v1/inventory-information
+    - /v1/jamf-pro-version
+    - /v1/notifications
+    - /v2/mobile-devices
+    - /v2/mobile-devices/{id}
+    - /v2/mobile-devices/detail
+    - /v2/mobile-devices/{id}/detail
